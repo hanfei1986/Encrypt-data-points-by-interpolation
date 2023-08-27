@@ -1,4 +1,5 @@
 # Encrypt-data-points-by-interpolation
 Encrypt data points by interpolation.
 
-![Figure_1](https://github.com/hanfei1986/Encrypt-data-points-by-interpolation/assets/59255164/c34c579c-092b-499a-be47-0f17dd9ece76)
+![Figure_1](https://github.com/hanfei1986/Encrypt-data-points-by-interpolation/assets/59255164/05fc0f40-6264-401b-8316-18991a0bb52b)
+
