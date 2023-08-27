@@ -20,8 +20,8 @@ for file in glob.glob(path):
             new_y = f_xy(new_x)
             new_df[df.columns[i]] = new_y
 
-            plt.scatter(x, y, c='blue', s=50)
-            plt.plot(new_x, new_y, c='red', marker='.')
+            plt.plot(x, y, 'o-', c='blue', markersize=10)
+            plt.plot(new_x, new_y, marker='.', c='red', markersize=5)
             plt.xlabel(df.columns[0])
             plt.ylabel(df.columns[i])
             plt.show()
